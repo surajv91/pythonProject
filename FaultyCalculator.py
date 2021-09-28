@@ -29,4 +29,4 @@ elif symbol=="/":
     div=num1/num2
     print("The div is : ",int(div))
 else:
-    print('Unknown symbol.')
+    print('Unknown symbol.',symbol)
